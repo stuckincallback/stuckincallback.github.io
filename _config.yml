@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://stuckincallback.github.io
+title: stuck.in.a.callback
+tagline: journey of a noob in realm of callbacks
+description: My awesome new site
+paginate: 5
